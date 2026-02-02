@@ -1,7 +1,7 @@
 # Andrew Chavez
 # Independent Project 3
+# Python meeting planner project created for coursework
 # This program lets the user set up a number of weekly meetings and assign each of them a leader name and a topic
-# I hereby declare upon my word of honor that I have neither given nor received unauthorized help on this work.  I further declare that I have not used AI to compose any Python code that I am submitting as part of this assignment
 
 # Function definition: AssignMeetings
 # Function purpose: Assigns the leader and topic to a meeting week
@@ -89,3 +89,4 @@ else:
     PrintMeetings(LeaderNames, MeetingTopics, False)
     print ("")
     print("Thanks for using the program!")
+
